@@ -1,0 +1,6 @@
+{
+  "orders": 1000,
+  "late_orders": 247,
+  "on_time_pct": 75.3,
+  "avg_delay_days": 0.889
+}
